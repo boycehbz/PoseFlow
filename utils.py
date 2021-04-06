@@ -19,7 +19,7 @@ import json
 import copy
 import heapq
 from munkres import Munkres, print_matrix
-from PIL import Image
+# from PIL import Image
 from tqdm import tqdm
 
 
